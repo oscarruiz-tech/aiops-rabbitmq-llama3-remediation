@@ -1,3 +1,4 @@
+<img width="2526" height="1820" alt="live_demo" src="https://github.com/user-attachments/assets/454e9916-6994-44ef-938f-f4af5c765ea8" />
 # 🚀 Event-Driven AIOps Platform: Pub/Sub Filtering with RabbitMQ & Local LLM (Llama 3)
 
 An enterprise-grade, distributed event processing and real-time incident remediation architecture decoupled via **RabbitMQ Topic Exchanges** and an **Evaluator Agent powered by a local Llama 3 LLM (via Ollama)**.
