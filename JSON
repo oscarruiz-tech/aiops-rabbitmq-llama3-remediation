@@ -1,0 +1,14 @@
+🚨 [ALERT RECEIVED]: [DATABASE] Severe component failure detected (Region: EUROPE)
+🧠 Processing diagnosis in JSON format with Llama 3...
+
+📊 [STRUCTURED JSON RESPONSE]:
+{
+    "region": "EUROPE",
+    "servicio": "DATABASE",
+    "nivel_riesgo": "CRITICO",
+    "diagnostico": "Severe failure detected in the database system component.",
+    "accion_mitigacion": "Initiate failover to the secondary standby database instance.",
+    "requiere_failover": true
+}
+
+⚡ [AUTOMATED ACTION TRIGGERED]: Executing Regional Failover Sequence...
