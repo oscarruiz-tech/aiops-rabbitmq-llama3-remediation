@@ -32,4 +32,4 @@ This laboratory demonstrates how to process high-volume infrastructure telemetry
 
 ### 📊 Example Output (Structured JSON Remediation)
 
-<img width="2526" height="1820" alt="live_demo" src="https://github.com/user-attachments/assets/913e2771-e21e-4513-abc5-e58638f327b4" />
+
