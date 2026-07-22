@@ -27,3 +27,9 @@ This laboratory demonstrates how to process high-volume infrastructure telemetry
 ┌─────────────────────────┐
 │     Ollama (Llama 3)    │  (Local LLM Inference Engine)
 └─────────────────────────┘
+
+Here is a side-by-side terminal session showing the Telemetry Publisher (right) and the AIOps Worker Agent processing critical events in real-time (left):
+
+![RabbitMQ and Llama 3 Live Demo](live_demo.jpg)
+
+### 📊 Example Output (Structured JSON Remediation)
