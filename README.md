@@ -27,3 +27,9 @@ This laboratory demonstrates how to process high-volume infrastructure telemetry
 ┌─────────────────────────┐
 │     Ollama (Llama 3)    │  (Local LLM Inference Engine)
 └─────────────────────────┘
+
+... critical events in real-time (left):
+
+### 📊 Example Output (Structured JSON Remediation)
+
+<img width="2526" height="1820" alt="live_demo" src="https://github.com/user-attachments/assets/913e2771-e21e-4513-abc5-e58638f327b4" />
