@@ -1,0 +1,6 @@
+.
+├── docker-compose.yml        # Docker setup for RabbitMQ + Management Console UI
+├── publisher_continuo.py     # Multi-region infrastructure telemetry emulator
+├── worker_suscriptor.py      # Generic audit worker filtering events by region
+├── worker_ai_json.py         # AI-powered worker integrated with Ollama/Llama 3 (JSON Mode)
+└── README.md                 # Project documentation
