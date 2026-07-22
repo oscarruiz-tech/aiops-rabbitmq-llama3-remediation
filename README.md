@@ -30,6 +30,6 @@ This laboratory demonstrates how to process high-volume infrastructure telemetry
 
 ... critical events in real-time (left):
 
+![RabbitMQ and Llama 3 Live Demo](./live_demo.jpg)
+
 ### 📊 Example Output (Structured JSON Remediation)
-
-
