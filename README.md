@@ -33,5 +33,6 @@ Here is a side-by-side terminal session showing the Telemetry Publisher (right) 
 
 ![RabbitMQ and Llama 3 Live Demo](./live_demo.jpg)
 
-<img width="2526" height="1820" alt="live_demo" src="https://github.com/user-attachments/assets/454e9916-6994-44ef-938f-f4af5c765ea8" />
+<img width="2526" height="1820" alt="live_demo" src="https://github.com/user-attachments/assets/7a5d5c80-8637-48a3-bb2d-21ae96389d93" />
+
 
